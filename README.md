@@ -1,7 +1,7 @@
 # Korean Flashcards
 
 A Korean Flashcards system entirely made with [System Designer](https://designfirst.io/systemdesigner/) (design, code, and publication on GitHub).
-You can access to the the flaschards and test your korean [here](https://sd-apps.github.io/korean-flashcards/korean-flashcards.html).
+You can access to the flaschards and test your korean [here](https://sd-apps.github.io/korean-flashcards/korean-flashcards.html).
 
 ## License
 
